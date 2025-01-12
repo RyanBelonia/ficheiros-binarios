@@ -1,0 +1,7 @@
+C:\Users\Utilizador\source\repos\M7-Exemplo2Ficheirosbinarios\M7-Exemplo2Ficheirosbinarios\bin\Debug\M7-Exemplo2Ficheirosbinarios.exe.config
+C:\Users\Utilizador\source\repos\M7-Exemplo2Ficheirosbinarios\M7-Exemplo2Ficheirosbinarios\bin\Debug\M7-Exemplo2Ficheirosbinarios.exe
+C:\Users\Utilizador\source\repos\M7-Exemplo2Ficheirosbinarios\M7-Exemplo2Ficheirosbinarios\bin\Debug\M7-Exemplo2Ficheirosbinarios.pdb
+C:\Users\Utilizador\source\repos\M7-Exemplo2Ficheirosbinarios\M7-Exemplo2Ficheirosbinarios\obj\Debug\M7-Exemplo2Ficheirosbinarios.csproj.AssemblyReference.cache
+C:\Users\Utilizador\source\repos\M7-Exemplo2Ficheirosbinarios\M7-Exemplo2Ficheirosbinarios\obj\Debug\M7-Exemplo2Ficheirosbinarios.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\M7-Exemplo2Ficheirosbinarios\M7-Exemplo2Ficheirosbinarios\obj\Debug\M7-Exemplo2Ficheirosbinarios.exe
+C:\Users\Utilizador\source\repos\M7-Exemplo2Ficheirosbinarios\M7-Exemplo2Ficheirosbinarios\obj\Debug\M7-Exemplo2Ficheirosbinarios.pdb
