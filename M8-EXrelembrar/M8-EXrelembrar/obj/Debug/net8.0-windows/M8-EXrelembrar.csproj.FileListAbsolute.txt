@@ -1,0 +1,16 @@
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\obj\Debug\net8.0-windows\M8_EXrelembrar.Form1.resources
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\obj\Debug\net8.0-windows\M8-EXrelembrar.csproj.GenerateResource.cache
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\obj\Debug\net8.0-windows\M8-EXrelembrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\obj\Debug\net8.0-windows\M8-EXrelembrar.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\obj\Debug\net8.0-windows\M8-EXrelembrar.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\obj\Debug\net8.0-windows\M8-EXrelembrar.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\bin\Debug\net8.0-windows\M8-EXrelembrar.exe
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\bin\Debug\net8.0-windows\M8-EXrelembrar.deps.json
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\bin\Debug\net8.0-windows\M8-EXrelembrar.runtimeconfig.json
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\bin\Debug\net8.0-windows\M8-EXrelembrar.dll
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\bin\Debug\net8.0-windows\M8-EXrelembrar.pdb
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\obj\Debug\net8.0-windows\M8-EXrelembrar.dll
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\obj\Debug\net8.0-windows\refint\M8-EXrelembrar.dll
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\obj\Debug\net8.0-windows\M8-EXrelembrar.pdb
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\obj\Debug\net8.0-windows\M8-EXrelembrar.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\M8-EXrelembrar\M8-EXrelembrar\obj\Debug\net8.0-windows\ref\M8-EXrelembrar.dll
